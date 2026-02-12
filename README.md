@@ -96,10 +96,10 @@ The dashboard framework can be scaled to incorporate future datasets and extende
 
 ## Dashboard Preview
 
-[![Dashboard Preview](1.retail-revenue-dashboard.png)](retail-revenue-dashboard.png)
+[![Dashboard Preview](screenshot.png)]
 ## Dashboard Preview
 
-[![Dashboard Preview](2retail-revenue-dashboard.png)]
+[![Dashboard Preview](screenshot2.png)]
 
 
 
