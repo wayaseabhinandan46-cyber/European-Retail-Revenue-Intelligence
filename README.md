@@ -24,7 +24,7 @@ Retail sales dataset containing order details, revenue, regions, and product cat
 
 ## Dashboard Preview
 ![Dashboard] 1. European Retail Revenue Intelligence & Profit Leakage Audit. 1.png
-             2. 
+             2. European Retail Revenue Intelligence & Profit Leakage Audit. 2.png
 ## Outcome
 This dashboard enables stakeholders to monitor revenue performance and make strategic decisions.
 
