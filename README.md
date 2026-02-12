@@ -27,7 +27,7 @@ Retail sales dataset containing order details, revenue, regions, and product cat
 [![Dashboard Preview](retail-revenue-dashboard.png)](retail-revenue-dashboard.png)
 ## Dashboard Preview
 
-[![Dashboard Preview](retail-revenue-dashboard 2.png)](retail-revenue-dashboard 2.png)
+[![Dashboard Preview](retail-revenue-dashboard 2 .png)](retail-revenue-dashboard 2 .png)
 ## Dashboard Preview
 
 [![Dashboard Preview](retail-revenue-dashboard 3.png)](retail-revenue-dashboard 3.png)
