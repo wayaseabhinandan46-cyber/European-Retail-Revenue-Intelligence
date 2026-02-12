@@ -23,7 +23,7 @@ Retail sales dataset containing order details, revenue, regions, and product cat
 - Revenue contribution by category analyzed
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard]
 
 ## Outcome
 This dashboard enables stakeholders to monitor revenue performance and make strategic decisions.
